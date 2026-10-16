@@ -1,0 +1,11 @@
+# Arquivos temporários do Word
+~$*
+~WRL*.tmp
+
+# Vídeos e materiais grandes
+*.mp4
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
